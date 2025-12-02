@@ -11,6 +11,6 @@ CALCULATE_MONTHLY_PAYMENT():
 *then input variable of*.           LOAN AMOUNT(principal):        ANNUAL INTEREST RATE(%):        LOAN DURATION (years):To collect input of the user to run the amortization formula The amortization formula therefore is,
 M = P × /r(1+r)^n/(1+r)^n-1
 this formula would be used to run the code as the user input values to the various variables.
-6. Testing:I tested the program using different loan amounts and interest rates to check if the answer matches what online calculators give.I also tested:Wrong inputs Zero or negative numbers Very large numbers.This helped ensure the program works correctly.
+6. Testing: I tested the program using different loan amounts and interest rates to check if the answer matches what online calculators give.I also tested wrong inputs Zero or negative numbers Very large numbers.This helped ensure the program works correctly.
 7. Deployment after testing: I packaged the code and uploaded it to GitHub.This makes it easy to submit and share.
-8. Maintenance:This is where I can make improvements later, such as:Showing a full amortization table (monthly breakdown)Adding error handling Adding a GUI or HTML versionMaking it run on a mobile app.
+8. Maintenance:This is where I can make improvements later, such as,showing a full amortization table (monthly breakdown)Adding error handling Adding a GUI or HTML version making it run on a mobile app.
